@@ -4,9 +4,13 @@
 ![Tutorial](hERRQX.gif)
 - Type $help to view all comands...
 
-# Another Stuff
+# Commands
+![Image of Imgur](3O3IWZ.png)
 
-# Bots
+# Support Server
+[![Support Server](iwfEJY.png)](https://discord.gg/RqBvr4H)
+
+# Discord Bot On Sites
 <center>
 <a href="https://top.gg/bot/668481980547072007" >
   <img src="https://top.gg/api/widget/668481980547072007.svg"
@@ -45,10 +49,3 @@
 	alt="Red Music bot on discordbotlist.org">
 </a>
 </center>
-
-
-# Commands
-![Image of Imgur](3O3IWZ.png)
-
-# Support Server
-[![Support Server](iwfEJY.png)](https://discord.gg/RqBvr4H)
