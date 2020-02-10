@@ -9,7 +9,7 @@
 # top.gg
 [![TOP.GG](https://top.gg/api/widget/668481980547072007.svg)](https://top.gg/bot/668481980547072007)
 # discord boats
-[![DISCORD BOATS](https://discord.boats/bot/668481980547072007)
+[![DISCORD BOATS](https://discord.boats/api/widget/668481980547072007.svg)](https://discord.boats/bot/668481980547072007)
 
 # Commands
 ![Image of Imgur](3O3IWZ.png)
