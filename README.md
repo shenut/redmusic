@@ -6,9 +6,13 @@
 
 # Another Stuff
 
-# top.gg
-[![TOP.GG](https://top.gg/api/widget/668481980547072007.svg)](https://top.gg/bot/668481980547072007)
+# Bots
 <center>
+<a href="https://top.gg/bot/668481980547072007" >
+  <img src="https://top.gg/api/widget/668481980547072007.svg"
+       	width="430" 
+	height="190" 
+       	alt="Red Music bot on top.gg">
 </a>
 <a href="https://bots.ondiscord.xyz/bots/668481980547072007">
    <img src="https://bots.ondiscord.xyz/bots/668481980547072007/embed"
@@ -34,12 +38,6 @@
 
 <br>
 
-<a href="https://divinediscordbots.com/bot/668481980547072007" >
-   <img src="https://divinediscordbots.com/api/widget/668481980547072007.svg"
-	width="440" 
-	height="190" 
-	alt="Red Music bot on divinediscordbots.com">
-</a>
 <a href="https://discordbotlist.com/bots/668481980547072007">
     <img src="https://discordbotlist.com/bots/668481980547072007/widget"
 	width="400" 
