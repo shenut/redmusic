@@ -7,8 +7,9 @@
 # Another Stuff
 
 # top.gg
+<center>
 [![TOP.GG](https://top.gg/api/widget/668481980547072007.svg)](https://top.gg/bot/668481980547072007)
-
+</a>
 <a href="https://bots.ondiscord.xyz/bots/668481980547072007">
    <img src="https://bots.ondiscord.xyz/bots/668481980547072007/embed"
 	width="420" 
