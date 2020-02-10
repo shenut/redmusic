@@ -15,4 +15,4 @@
 ![Image of Imgur](3O3IWZ.png)
 
 # Support Server
-![Support Server](iwfEJY.png)
+[![Support Server](iwfEJY.png)](https://discord.gg/RqBvr4H)
