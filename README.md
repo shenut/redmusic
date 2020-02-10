@@ -4,4 +4,4 @@
 ![Image of Imgur](3O3IWZ.png)
 
 # Support Server
-![Support Server]()
+![Support Server](iwfEJY.png)
