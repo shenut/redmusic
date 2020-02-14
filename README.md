@@ -7,6 +7,12 @@
 # Commands
 ![Image of Imgur](3O3IWZ.png)
 
+# How to use bot
+![Image of Imgur](1.gif)
+
+# Some commands
+![Image of Imgur](2.gif)
+
 # Support Server
 [![Support Server](iwfEJY.png)](https://discord.gg/RqBvr4H)
 
